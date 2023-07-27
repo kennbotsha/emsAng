@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "det",
+      "surname": "botsha",
+      "position": "Director",
+      "id": 1
+    },
+    {
+      "firstname": "chuwang",
+      "surname": "dareng",
+      "position": "Junior Staff",
+      "id": 2
+    },
+    {
+      "firstname": "simi",
+      "surname": "chollom",
+      "position": "Accountant",
+      "id": 3
+    },
+    {
+      "firstname": "jang",
+      "surname": "mark",
+      "position": "Assistant Director",
+      "id": 4
+    },
+    {
+      "firstname": "charles",
+      "surname": "gyamg",
+      "position": "Assistant Director",
+      "id": 5
+    },
+    {
+      "firstname": "dakwo",
+      "surname": "dusu pam",
+      "position": "Junior Staff",
+      "id": 6
+    }
+  ]
+}
